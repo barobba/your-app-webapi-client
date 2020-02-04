@@ -14,7 +14,7 @@ setuptools.setup(
 
     packages=setuptools.find_packages(),
     python_requires='~=3.7',
-    install_requires=[],
+    install_requires=['requests'],
 
     author="Biagio Arobba",
     author_email="barobba@gmail.com"
